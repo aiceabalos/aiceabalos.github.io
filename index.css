@@ -6,6 +6,10 @@ body {
 }
 .field1 {
 	background-color: #ffcba4;
-	opacity: 0.75;
-
+}
+.field2 {
+	background-color: #fceec5;
+}
+.field3 {
+	background-color: #f9d494;
 }
